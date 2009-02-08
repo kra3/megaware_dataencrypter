@@ -1,0 +1,28 @@
+
+=========================================================================================================
+*************************************  MEGAWARE ENCRYPTER VERSION 2.1  **********************************
+=========================================================================================================
+
+
+RELEASE CHANGES FOR THE VERSION 2.1
+-----------------------------------
+ 1) The bug in the algorithm hierarchy caused by the META 2.0 has been fixed. In the previous versions, 
+    if there were successive even number of META 2.0 in the hierarchy, then they will each other cancel the encryption effect.
+    In the new version , it is fixed by using the level of encryption for the algorithm.
+
+ 2) Displays the current level of encryption or decryption: In the process progress,
+    the heading will contain the encryption or decryption algorithm level 
+    inside square brackets.
+
+ 3) Equation dialog checked and bugs fixed.
+	
+ 4) The stabilty of META 2.O is checked and verfied for upto 20 level of ALGORITHM HIERARCHY.
+
+
+
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+----------------------------------UPCOMING VERSION----------------------------
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+	NEW VERSION 3.O WITH SCRAMBLE SHIFT ALGORITHM WHICH USES THE FULL POTENTIAL OF JAVA'S UNICODE SUPPORT CREATING
+	10 to the power of 282000 COMBINATIONS MAKING EVENT THE SIMPLE THOUGHT OF BREAKING A NIGHTMARE.
+	THE NEW VERSION WILL HAVE 3 ALGORITHMS AND YOU CAN CREATE NEW SECURE AND DIVERSE ALGORITHM HIERARCHIES.
